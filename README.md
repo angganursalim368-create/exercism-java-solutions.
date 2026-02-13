@@ -30,5 +30,4 @@ Dokumentasi pemecahan masalah dengan logika yang teruji:
 ## 📫 Hubungi Saya
 Saya selalu terbuka untuk diskusi teknis maupun peluang kolaborasi.
 - **Email:** angganursalim368@gmail.com
-- **Blog:** [keinginantulis27.blogspot.com](https://keinginantulis27.blogspot.com)
 - **Lokasi:** Bandung, Indonesia
